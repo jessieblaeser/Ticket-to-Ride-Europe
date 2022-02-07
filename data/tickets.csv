@@ -1,0 +1,47 @@
+﻿City A,Formatted City A,City B,Formatted City B,Points,Long_Regular,Category
+Brest,"Brest, France",Petrograd,"Saint Petersburg, Russia",20,1,Long
+Lisboa,"Lisbon, Portugal",Danzic,"Gdansk, Poland",20,1,Long
+Palermo,"Palermo, Italy",Moskva,"Moscow, Russia",20,1,Long
+Kobenhavn,"Copenhagen, Denmark",Erzurum,"Erzurum, Turkey",21,1,Long
+Edinburgh,"Edinburgh, Scotland",Athína,"Athens, Greece",21,1,Long
+Cádiz,"Cadiz, Spain",Stockholm,"Stockholm, Sweden",21,1,Long
+Athína,"Athens, Greece",Wilno,"Vilnius, Lithuania",11,0,Regular
+Frankfurt,"Frankfurt, Germany",Smolensk,"Smolensk, Russia",13,0,Regular
+Berlin,"Berlin, Germany",Moskva,"Moscow, Russia",12,0,Regular
+Amsterdam,"Amsterdam, Netherlands",Wilno,"Vilnius, Lithuania",12,0,Regular
+Stockholm,"Stockholm, Sweden",Wien,"Vienna, Austria",11,0,Regular
+Kyiv,"Kyiv, Ukraine",Petrograd,"Saint Petersburg, Russia",6,0,Regular
+Zágráb,"Zagreb, Croatia",Brindisi,"Brindisi, Italy",6,0,Regular
+Warszawa,"Warsaw, Poland",Smolensk,"Smolensk, Russia",6,0,Regular
+Zürich,"Zurich, Switzerland",Brindisi,"Brindisi, Italy",6,0,Regular
+Zürich,"Zurich, Switzerland",Budapest,"Budapest, Hungary",6,0,Regular
+Paris ,"Paris, France",Edinburgh,"Edinburgh, Scotland",7,0,Regular
+Brest,"Brest, France",Marseille,"Marseille, France",7,0,Regular
+London,"London, England",Berlin,"Berlin, Germany",7,0,Regular
+Amsterdam,"Amsterdam, Netherlands",Pamplona,"Pamplona, Spain",7,0,Regular
+Paris ,"Paris, France",Zágráb,"Zagreb, Croatia",7,0,Regular
+Barcelona,"Barcelona, Spain",München,"Munich, Germany",8,0,Regular
+Marseille,"Marseille, France",Essen,"Essen, Germany",8,0,Regular
+Roma,"Rome, Italy",Smyrna,"Izmir, Turkey",8,0,Regular
+Paris ,"Paris, France",Wien,"Vienna, Austria",8,0,Regular
+Brest,"Brest, France",Venezia,"Venice, Italy",8,0,Regular
+Barcelona,"Barcelona, Spain",Bruxelles,"Brussels, Belgium",8,0,Regular
+Smolensk,"Smolensk, Russia",Rostov,"Rostov, Russia",8,0,Regular
+Madrid,"Madrid, Spain",Zürich,"Zurich, Switzerland",8,0,Regular
+Palermo,"Palermo, Italy",Constantinople,"Istanbul, Turkey",8,0,Regular
+Berlin,"Berlin, Germany",Bucuresti,"Bucharest, Romania",8,0,Regular
+Madrid,"Madrid, Spain",Dieppe,"Dieppe, France",8,0,Regular
+Sarajevo,"Sarajevo, Bosnia",Sevastopol,"Sevastopol, Crimea",8,0,Regular
+Kyiv,"Kyiv, Ukraine",Sochi,Sochi Russia,8,0,Regular
+Bruxelles,"Brussels, Belgium",Danzic,"Gdansk, Poland",9,0,Regular
+Berlin,"Berlin, Germany",Roma,"Rome, Italy",9,0,Regular
+Riga ,"Riga, Latvia",Bucuresti,"Bucharest, Romania",10,0,Regular
+Venezia,"Venice, Italy",Constantinople,"Istanbul, Turkey",10,0,Regular
+Angora,"Ankara, Turkey",Kharkov,"Kharkiv, Ukraine",10,0,Regular
+London,"London, England",Wien,"Vienna, Austria",10,0,Regular
+Essen,"Essen, Germany",Kyiv,"Kyiv, Ukraine",10,0,Regular
+Frankfurt,"Frankfurt, Germany",Kobenhavn,"Copenhagen, Denmark",5,0,Regular
+Rostov,"Rostov, Russia",Erzurum,"Erzurum, Turkey",5,0,Regular
+Athína,"Athens, Greece",Angora,"Ankara, Turkey",5,0,Regular
+Budapest,"Budapest, Hungary",Sofia,"Sofia, Bulgaria",5,0,Regular
+Sofia,"Sofia, Bulgaria",Smyrna,"Izmir, Turkey",5,0,Regular
