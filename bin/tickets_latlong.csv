@@ -1,0 +1,47 @@
+city_a,formatted_city_a,city_b,formatted_city_b,points,long_regular,category,lat_city_a,long_city_a,lat_city_b,long_city_b
+Brest,"Brest, France",Petrograd,"Saint Petersburg, Russia",20,1,Long,48.390394,-4.486076,59.9310584,30.3609096
+Lisboa,"Lisbon, Portugal",Danzic,"Gdansk, Poland",20,1,Long,38.7222524,-9.1393366,54.35202520000001,18.6466384
+Palermo,"Palermo, Italy",Moskva,"Moscow, Russia",20,1,Long,38.11569,13.3614868,55.755826,37.6172999
+Kobenhavn,"Copenhagen, Denmark",Erzurum,"Erzurum, Turkey",21,1,Long,55.6760968,12.5683372,39.9054993,41.2658236
+Edinburgh,"Edinburgh, Scotland",Athína,"Athens, Greece",21,1,Long,55.953252,-3.188267,37.9838096,23.7275388
+Cádiz,"Cadiz, Spain",Stockholm,"Stockholm, Sweden",21,1,Long,36.5270612,-6.2885962,59.32932349999999,18.0685808
+Athína,"Athens, Greece",Wilno,"Vilnius, Lithuania",11,0,Regular,37.9838096,23.7275388,54.6871555,25.2796514
+Frankfurt,"Frankfurt, Germany",Smolensk,"Smolensk, Russia",13,0,Regular,50.1109221,8.6821267,54.7903112,32.0503663
+Berlin,"Berlin, Germany",Moskva,"Moscow, Russia",12,0,Regular,52.52000659999999,13.404954,55.755826,37.6172999
+Amsterdam,"Amsterdam, Netherlands",Wilno,"Vilnius, Lithuania",12,0,Regular,52.3675734,4.9041389,54.6871555,25.2796514
+Stockholm,"Stockholm, Sweden",Wien,"Vienna, Austria",11,0,Regular,59.32932349999999,18.0685808,48.2081743,16.3738189
+Kyiv,"Kyiv, Ukraine",Petrograd,"Saint Petersburg, Russia",6,0,Regular,50.4501,30.5234,59.9310584,30.3609096
+Zágráb,"Zagreb, Croatia",Brindisi,"Brindisi, Italy",6,0,Regular,45.8150108,15.9819189,40.6327278,17.9417616
+Warszawa,"Warsaw, Poland",Smolensk,"Smolensk, Russia",6,0,Regular,52.2296756,21.0122287,54.7903112,32.0503663
+Zürich,"Zurich, Switzerland",Brindisi,"Brindisi, Italy",6,0,Regular,47.3768866,8.541694,40.6327278,17.9417616
+Zürich,"Zurich, Switzerland",Budapest,"Budapest, Hungary",6,0,Regular,47.3768866,8.541694,47.497912,19.040235
+Paris ,"Paris, France",Edinburgh,"Edinburgh, Scotland",7,0,Regular,48.856614,2.3522219,55.953252,-3.188267
+Brest,"Brest, France",Marseille,"Marseille, France",7,0,Regular,48.390394,-4.486076,43.296482,5.36978
+London,"London, England",Berlin,"Berlin, Germany",7,0,Regular,51.5072178,-0.1275862,52.52000659999999,13.404954
+Amsterdam,"Amsterdam, Netherlands",Pamplona,"Pamplona, Spain",7,0,Regular,52.3675734,4.9041389,42.812526,-1.6457745
+Paris ,"Paris, France",Zágráb,"Zagreb, Croatia",7,0,Regular,48.856614,2.3522219,45.8150108,15.9819189
+Barcelona,"Barcelona, Spain",München,"Munich, Germany",8,0,Regular,41.3873974,2.168568,48.1351253,11.5819805
+Marseille,"Marseille, France",Essen,"Essen, Germany",8,0,Regular,43.296482,5.36978,51.4556432,7.0115552
+Roma,"Rome, Italy",Smyrna,"Izmir, Turkey",8,0,Regular,41.9027835,12.4963655,38.423734,27.142826
+Paris ,"Paris, France",Wien,"Vienna, Austria",8,0,Regular,48.856614,2.3522219,48.2081743,16.3738189
+Brest,"Brest, France",Venezia,"Venice, Italy",8,0,Regular,48.390394,-4.486076,45.4408474,12.3155151
+Barcelona,"Barcelona, Spain",Bruxelles,"Brussels, Belgium",8,0,Regular,41.3873974,2.168568,50.8476424,4.3571696
+Smolensk,"Smolensk, Russia",Rostov,"Rostov, Russia",8,0,Regular,54.7903112,32.0503663,57.195623,39.4131527
+Madrid,"Madrid, Spain",Zürich,"Zurich, Switzerland",8,0,Regular,40.4167754,-3.7037902,47.3768866,8.541694
+Palermo,"Palermo, Italy",Constantinople,"Istanbul, Turkey",8,0,Regular,38.11569,13.3614868,41.0082376,28.9783589
+Berlin,"Berlin, Germany",Bucuresti,"Bucharest, Romania",8,0,Regular,52.52000659999999,13.404954,44.4267674,26.1025384
+Madrid,"Madrid, Spain",Dieppe,"Dieppe, France",8,0,Regular,40.4167754,-3.7037902,49.922992,1.077483
+Sarajevo,"Sarajevo, Bosnia",Sevastopol,"Sevastopol, Crimea",8,0,Regular,43.8562586,18.4130763,44.61665,33.5253671
+Kyiv,"Kyiv, Ukraine",Sochi,Sochi Russia,8,0,Regular,50.4501,30.5234,43.60280789999999,39.7341543
+Bruxelles,"Brussels, Belgium",Danzic,"Gdansk, Poland",9,0,Regular,50.8476424,4.3571696,54.35202520000001,18.6466384
+Berlin,"Berlin, Germany",Roma,"Rome, Italy",9,0,Regular,52.52000659999999,13.404954,41.9027835,12.4963655
+Riga ,"Riga, Latvia",Bucuresti,"Bucharest, Romania",10,0,Regular,56.9496487,24.1051865,44.4267674,26.1025384
+Venezia,"Venice, Italy",Constantinople,"Istanbul, Turkey",10,0,Regular,45.4408474,12.3155151,41.0082376,28.9783589
+Angora,"Ankara, Turkey",Kharkov,"Kharkiv, Ukraine",10,0,Regular,39.9333635,32.8597419,49.9935,36.230383
+London,"London, England",Wien,"Vienna, Austria",10,0,Regular,51.5072178,-0.1275862,48.2081743,16.3738189
+Essen,"Essen, Germany",Kyiv,"Kyiv, Ukraine",10,0,Regular,51.4556432,7.0115552,50.4501,30.5234
+Frankfurt,"Frankfurt, Germany",Kobenhavn,"Copenhagen, Denmark",5,0,Regular,50.1109221,8.6821267,55.6760968,12.5683372
+Rostov,"Rostov, Russia",Erzurum,"Erzurum, Turkey",5,0,Regular,57.195623,39.4131527,39.9054993,41.2658236
+Athína,"Athens, Greece",Angora,"Ankara, Turkey",5,0,Regular,37.9838096,23.7275388,39.9333635,32.8597419
+Budapest,"Budapest, Hungary",Sofia,"Sofia, Bulgaria",5,0,Regular,47.497912,19.040235,42.6977082,23.3218675
+Sofia,"Sofia, Bulgaria",Smyrna,"Izmir, Turkey",5,0,Regular,42.6977082,23.3218675,38.423734,27.142826
